@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "is-number": "^4.0.0",
+    "kind-of": "^6.0.0",
+	"crypto":"*"
+  },
+  "description": "Generate randomized strings of a specified length using simple character sequences. The original generate-password.",
+  "devDependencies": {
+    "ansi-bold": "^0.1.1",
+    "benchmarked": "^1.1.1",
+    "glob": "^7.1.2",
+    "gulp-format-md": "^0.1.12",
+    "mocha": "^3.4.2"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "homepage": "https://github.com/Madhu-Buyyanapragada/randomize",
+  "keywords": [
+    "alpha",
+    "alpha-numeric",
+    "alphanumeric",
+    "characters",
+    "chars",
+    "numeric",
+    "password",
+    "generate",
+    "generate-password",
+    "rand",
+    "random",
+    "randomatic",
+    "randomize",
+    "randomized"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "randomize",
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Madhu-Buyyanapragada/randomize.git"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "version": "1.0.0"
+}
